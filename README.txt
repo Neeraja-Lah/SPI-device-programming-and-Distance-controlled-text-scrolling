@@ -1,6 +1,6 @@
-.. _assignment4:
+Assignment 4: SPI Device Programming and Distance-controlled Text Scrolling
 
-SPI Device Programming and Distance-controlled Text Scrolling
+
 #############################################################
 
 Overview
