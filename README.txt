@@ -17,7 +17,7 @@ pressing key 'b'. The scrolling speed is controlled dpending on the distance.
 Short distance leads to fast scrolling speed and vice versa.
 
 Requirements
-************
+*************
 
 Raspberry Pi Model 3B+ or higher
 GCC compiler
